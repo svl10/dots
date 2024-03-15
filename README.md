@@ -1,4 +1,4 @@
-# [bspwm]R1999 theme dot
+# [bspwm]R1999 dot
 
 <h1> Screenshots </h1>
 <div>
