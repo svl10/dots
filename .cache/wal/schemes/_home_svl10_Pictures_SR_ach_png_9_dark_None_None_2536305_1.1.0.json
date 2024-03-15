@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/svl10/Pictures/SR/ach.png",
+    "alpha": "100",
+    "special": {
+        "background": "#040408",
+        "foreground": "#c0c0c1",
+        "cursor": "#c0c0c1"
+    },
+    "colors": {
+        "color0": "#040408",
+        "color1": "#2B5FBC",
+        "color2": "#5F668D",
+        "color3": "#86798C",
+        "color4": "#4B92C1",
+        "color5": "#52A7E8",
+        "color6": "#69D0F4",
+        "color7": "#c0c0c1",
+        "color8": "#424245",
+        "color9": "#2B5FBC",
+        "color10": "#5F668D",
+        "color11": "#86798C",
+        "color12": "#4B92C1",
+        "color13": "#52A7E8",
+        "color14": "#69D0F4",
+        "color15": "#c0c0c1"
+    }
+}

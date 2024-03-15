@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/svl10/Pictures/Wallpapers/1324908.png",
+    "alpha": "100",
+    "special": {
+        "background": "#020202",
+        "foreground": "#bfbfbf",
+        "cursor": "#bfbfbf"
+    },
+    "colors": {
+        "color0": "#020202",
+        "color1": "#726E6B",
+        "color2": "#847B77",
+        "color3": "#8C847C",
+        "color4": "#6E748A",
+        "color5": "#938F8C",
+        "color6": "#ADA9A5",
+        "color7": "#bfbfbf",
+        "color8": "#414141",
+        "color9": "#726E6B",
+        "color10": "#847B77",
+        "color11": "#8C847C",
+        "color12": "#6E748A",
+        "color13": "#938F8C",
+        "color14": "#ADA9A5",
+        "color15": "#bfbfbf"
+    }
+}

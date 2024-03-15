@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/svl10/Downloads/r1999.jpg"
+let background = "#040403"
+let foreground = "#c0c0c0"
+let cursor     = "#c0c0c0"
+
+" Colors
+let color0  = "#040403"
+let color1  = "#4F4737"
+let color2  = "#675336"
+let color3  = "#606152"
+let color4  = "#916E4C"
+let color5  = "#78876A"
+let color6  = "#9C946D"
+let color7  = "#c0c0c0"
+let color8  = "#424242"
+let color9  = "#4F4737"
+let color10 = "#675336"
+let color11 = "#606152"
+let color12 = "#916E4C"
+let color13 = "#78876A"
+let color14 = "#9C946D"
+let color15 = "#c0c0c0"

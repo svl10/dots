@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/svl10/Pictures/SR/2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#080607",
+        "foreground": "#c1c0c1",
+        "cursor": "#c1c0c1"
+    },
+    "colors": {
+        "color0": "#080607",
+        "color1": "#3558A8",
+        "color2": "#576DAA",
+        "color3": "#5A93B9",
+        "color4": "#6D88B4",
+        "color5": "#A19DA4",
+        "color6": "#CFBAAE",
+        "color7": "#c1c0c1",
+        "color8": "#454445",
+        "color9": "#3558A8",
+        "color10": "#576DAA",
+        "color11": "#5A93B9",
+        "color12": "#6D88B4",
+        "color13": "#A19DA4",
+        "color14": "#CFBAAE",
+        "color15": "#c1c0c1"
+    }
+}

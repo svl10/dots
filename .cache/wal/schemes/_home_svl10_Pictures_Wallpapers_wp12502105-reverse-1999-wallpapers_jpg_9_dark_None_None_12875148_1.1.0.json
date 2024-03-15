@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/svl10/Pictures/Wallpapers/wp12502105-reverse-1999-wallpapers.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020203",
+        "foreground": "#bfbfc0",
+        "cursor": "#bfbfc0"
+    },
+    "colors": {
+        "color0": "#020203",
+        "color1": "#988467",
+        "color2": "#647987",
+        "color3": "#748997",
+        "color4": "#7C95A4",
+        "color5": "#7DA5C1",
+        "color6": "#92A4AF",
+        "color7": "#bfbfc0",
+        "color8": "#414142",
+        "color9": "#988467",
+        "color10": "#647987",
+        "color11": "#748997",
+        "color12": "#7C95A4",
+        "color13": "#7DA5C1",
+        "color14": "#92A4AF",
+        "color15": "#bfbfc0"
+    }
+}

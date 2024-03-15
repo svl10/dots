@@ -1,0 +1,21 @@
+set $wallpaper /home/svl10/Downloads/r1999.jpg
+
+set $background #040403
+set $foreground #c0c0c0
+
+set $color0 #040403
+set $color1 #4F4737
+set $color2 #675336
+set $color3 #606152
+set $color4 #916E4C
+set $color5 #78876A
+set $color6 #9C946D
+set $color7 #c0c0c0
+set $color8 #424242
+set $color9 #4F4737
+set $color10 #675336
+set $color11 #606152
+set $color12 #916E4C
+set $color13 #78876A
+set $color14 #9C946D
+set $color15 #c0c0c0

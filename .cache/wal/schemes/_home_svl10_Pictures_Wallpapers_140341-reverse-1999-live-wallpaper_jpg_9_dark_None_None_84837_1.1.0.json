@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/svl10/Pictures/Wallpapers/140341-reverse-1999-live-wallpaper.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#bfbfbf",
+        "cursor": "#bfbfbf"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#7A827D",
+        "color2": "#A18A77",
+        "color3": "#686487",
+        "color4": "#7A8583",
+        "color5": "#92938D",
+        "color6": "#AAA39B",
+        "color7": "#bfbfbf",
+        "color8": "#3f3f3f",
+        "color9": "#7A827D",
+        "color10": "#A18A77",
+        "color11": "#686487",
+        "color12": "#7A8583",
+        "color13": "#92938D",
+        "color14": "#AAA39B",
+        "color15": "#bfbfbf"
+    }
+}

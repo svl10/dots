@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/svl10/Pictures/Wallpapers/steamuserimages-a.akamaihd.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#030202",
+        "foreground": "#c0bfbf",
+        "cursor": "#c0bfbf"
+    },
+    "colors": {
+        "color0": "#030202",
+        "color1": "#89776B",
+        "color2": "#968779",
+        "color3": "#D69472",
+        "color4": "#698384",
+        "color5": "#A9998B",
+        "color6": "#CBB5A0",
+        "color7": "#c0bfbf",
+        "color8": "#424141",
+        "color9": "#89776B",
+        "color10": "#968779",
+        "color11": "#D69472",
+        "color12": "#698384",
+        "color13": "#A9998B",
+        "color14": "#CBB5A0",
+        "color15": "#c0bfbf"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/svl10/Pictures/SR/I Cry.png",
+    "alpha": "100",
+    "special": {
+        "background": "#060407",
+        "foreground": "#c0c0c1",
+        "cursor": "#c0c0c1"
+    },
+    "colors": {
+        "color0": "#060407",
+        "color1": "#62619D",
+        "color2": "#96719A",
+        "color3": "#8C79D2",
+        "color4": "#7D85BC",
+        "color5": "#A88BB0",
+        "color6": "#AB9CD1",
+        "color7": "#c0c0c1",
+        "color8": "#444245",
+        "color9": "#62619D",
+        "color10": "#96719A",
+        "color11": "#8C79D2",
+        "color12": "#7D85BC",
+        "color13": "#A88BB0",
+        "color14": "#AB9CD1",
+        "color15": "#c0c0c1"
+    }
+}

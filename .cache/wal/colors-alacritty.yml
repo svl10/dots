@@ -1,0 +1,63 @@
+colors:
+
+  primary:
+    background: "#040403"
+    foreground: "#c0c0c0"
+
+  cursor:
+    text: CellBackground
+    cursor: CellForeground
+
+  vi_mode_cursor:
+    text: CellBackground
+    cursor: CellForeground
+
+  search:
+    matches:
+      foreground: '#040403'
+      background: '#c0c0c0'
+    focused_match:
+      foreground: CellBackground
+      background: CellForeground
+
+    bar:
+      foreground: '#424242'
+      background: '#c0c0c0'
+
+  line_indicator:
+    foreground: None
+    background: None
+
+  selection:
+    text: CellBackground
+    background: CellForeground
+
+  normal:
+    black: "#040403"
+    red: "#4F4737"
+    green: "#675336"
+    yellow: "#606152"
+    blue: "#916E4C"
+    magenta: "#78876A"
+    cyan: "#9C946D"
+    white: "#c0c0c0"
+
+  bright:
+    black: "#424242"
+    red: "#4F4737"
+    green: "#675336"
+    yellow: "#606152"
+    blue: "#916E4C"
+    magenta: "#78876A"
+    cyan: "#9C946D"
+    white: "#c0c0c0"
+
+  dim:
+    black: "#c0c0c0"
+    red: "#4F4737"
+    green: "#78876A"
+    yellow: "#606152"
+    blue: "#916E4C"
+    magenta: "#675336"
+    cyan: "#9C946D"
+    white: "#424242"
